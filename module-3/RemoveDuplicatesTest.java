@@ -1,3 +1,10 @@
+/*
+Name: Madilyn Carpenter
+Date: 12/21/2025
+Assignment 3
+Purpose: Create an array with random numbers and run through a function that removes duplicate numbers.
+*/
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Random;
